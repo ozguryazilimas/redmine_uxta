@@ -1,0 +1,12 @@
+@media screen and (max-width: 899px) {
+  .select2 {
+    position: absolute ;
+    top: 17px;
+    width: 65%!important;
+    margin-left: 15%;
+  }
+
+  .select2-container--open .select2-dropdown {
+    top: 20px;
+  }
+}
