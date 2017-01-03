@@ -1,3 +1,4 @@
+require 'redmine'
 require 'redmine_uxta'
 
 Redmine::Plugin.register :redmine_uxta do
